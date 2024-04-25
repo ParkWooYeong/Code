@@ -4,4 +4,4 @@
 def solution(my_string):
     answer = my_string.split()
     return answer
-# split 공백을 나눠서 출력해줌
+# split 공백을 나눠서 출력해줌12
